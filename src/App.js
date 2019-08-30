@@ -13,6 +13,7 @@ function App() {
   return (
     <Provider store={createStore(reducer)}>
       <div className="App">
+        <h2>Pick The Words In Order</h2>
         <QuestionGrid />
         <AnswerGrid />
         <OptionGrid />

@@ -2,10 +2,11 @@ import React from 'react';
 import Word from './Word';
 import { connect } from 'react-redux';
 import { removeWord } from './../actions/actionCreators';
+import './AnswerGrid.css';
 
 const AnswerGrid = ({ words, removeWord }) => {
   return (
-    <div>
+    <div className="answerGrid">
       {words.map((word, i) => (
         <Word key={`answer${i}`} word={word} addWord={removeWord} />
       ))}

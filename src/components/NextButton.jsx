@@ -1,11 +1,14 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import { nextSentence } from './../actions/actionCreators';
+import './NextButton.css';
 
 const NextButton = ({ nextSentence }) => {
   return (
     <div>
-      <button onClick={nextSentence}>Next</button>
+      <button className="nextButton" onClick={nextSentence}>
+        Next
+      </button>
     </div>
   );
 };
