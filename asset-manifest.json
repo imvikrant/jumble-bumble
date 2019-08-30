@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jumble-bumble/static/css/main.714106d7.chunk.css",
-    "main.js": "/jumble-bumble/static/js/main.27093fdf.chunk.js",
-    "main.js.map": "/jumble-bumble/static/js/main.27093fdf.chunk.js.map",
+    "main.css": "/jumble-bumble/static/css/main.c8b749de.chunk.css",
+    "main.js": "/jumble-bumble/static/js/main.7783b77c.chunk.js",
+    "main.js.map": "/jumble-bumble/static/js/main.7783b77c.chunk.js.map",
     "runtime~main.js": "/jumble-bumble/static/js/runtime~main.18ee6cca.js",
     "runtime~main.js.map": "/jumble-bumble/static/js/runtime~main.18ee6cca.js.map",
     "static/js/2.39e50043.chunk.js": "/jumble-bumble/static/js/2.39e50043.chunk.js",
     "static/js/2.39e50043.chunk.js.map": "/jumble-bumble/static/js/2.39e50043.chunk.js.map",
     "index.html": "/jumble-bumble/index.html",
-    "precache-manifest.e2ea3da59269d922e7cab785d205f682.js": "/jumble-bumble/precache-manifest.e2ea3da59269d922e7cab785d205f682.js",
+    "precache-manifest.4e5d7093abf9e25bf30d98e8a89eb0f7.js": "/jumble-bumble/precache-manifest.4e5d7093abf9e25bf30d98e8a89eb0f7.js",
     "service-worker.js": "/jumble-bumble/service-worker.js",
-    "static/css/main.714106d7.chunk.css.map": "/jumble-bumble/static/css/main.714106d7.chunk.css.map",
+    "static/css/main.c8b749de.chunk.css.map": "/jumble-bumble/static/css/main.c8b749de.chunk.css.map",
     "static/media/logo.svg": "/jumble-bumble/static/media/logo.5d5d9eef.svg"
   }
 }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b76563b5c6c7ef54d60ba9d23069d794",
+    "revision": "b51099adbd30a8b18a3c4343420a2584",
     "url": "/jumble-bumble/index.html"
   },
   {
-    "revision": "8c3b75f8f0680b4cd191",
-    "url": "/jumble-bumble/static/css/main.714106d7.chunk.css"
+    "revision": "21b6dc224704a31c46d5",
+    "url": "/jumble-bumble/static/css/main.c8b749de.chunk.css"
   },
   {
     "revision": "1551eaf1bdcacd36be02",
     "url": "/jumble-bumble/static/js/2.39e50043.chunk.js"
   },
   {
-    "revision": "8c3b75f8f0680b4cd191",
-    "url": "/jumble-bumble/static/js/main.27093fdf.chunk.js"
+    "revision": "21b6dc224704a31c46d5",
+    "url": "/jumble-bumble/static/js/main.7783b77c.chunk.js"
   },
   {
     "revision": "31a54fb0704a772d88dc",
